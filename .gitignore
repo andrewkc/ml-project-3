@@ -1,0 +1,4 @@
+features/
+train_data/
+video_features/
+!video_features/sh.sh

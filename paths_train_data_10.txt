@@ -1,0 +1,10 @@
+/home/andrewkc/Projects/ml-p3/train_data_10/-6d7xfYKptE_000003_000013.mp4
+/home/andrewkc/Projects/ml-p3/train_data_10/-5ZUMpdBPyw_000020_000030.mp4
+/home/andrewkc/Projects/ml-p3/train_data_10/-6fbWHuoX1s_000389_000399.mp4
+/home/andrewkc/Projects/ml-p3/train_data_10/-5Vx7UtZpzk_000000_000010.mp4
+/home/andrewkc/Projects/ml-p3/train_data_10/-6usjfP8hys_000000_000010.mp4
+/home/andrewkc/Projects/ml-p3/train_data_10/-2KvnLMnrA0_000000_000010.mp4
+/home/andrewkc/Projects/ml-p3/train_data_10/-3tVVBhz8-o_000249_000259.mp4
+/home/andrewkc/Projects/ml-p3/train_data_10/-5oULXqj45c_000003_000013.mp4
+/home/andrewkc/Projects/ml-p3/train_data_10/-5s-IR39XaY_000000_000010.mp4
+/home/andrewkc/Projects/ml-p3/train_data_10/-1MXpPymXFU_000187_000197.mp4
