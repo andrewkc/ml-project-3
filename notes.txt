@@ -1,0 +1,3 @@
+kmeans_umap en x_test
+silhouette score: 0.4342445731163025
+
