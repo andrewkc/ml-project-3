@@ -1,1 +1,2 @@
-# ml-project-https://github.com/andrewkc/ml-project-3.git3
+# Integrantes
+* Kelvin Andrei Cahuana Condori
